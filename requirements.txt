@@ -1,0 +1,10 @@
+# Versions used in the working Colab setup; verify against the final runtime.
+transformers==4.57.1
+tokenizers==0.22.1
+huggingface-hub==0.36.2
+# Other dependencies; record exact working versions before final submission.
+torch
+sentence-transformers
+rapidfuzz
+pandas
+numpy

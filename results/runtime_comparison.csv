@@ -1,0 +1,4 @@
+Dataset,Qwen Calls,Hybrid Calls,Qwen Time (s),Hybrid Qwen Time (s),Inference Time Reduction (%)
+BasketballTeam,830,755,71.93,65.26,9.28
+Country,1455,1250,127.26,107.36,15.64
+Device,3290,2415,282.5,209.34,25.9
